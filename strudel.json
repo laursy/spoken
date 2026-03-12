@@ -2,5 +2,7 @@
   "_base": "https://raw.githubusercontent.com/laursy/spoken/main/",
   "wearingacap": "wearingacap/wearingacap.wav",
   "todaystheday": "todaystheday/todaystheday.wav",
-  "bookclub": ["bookclub/bookclub.wav", "bookclub/bookclub.high.wav", "bookclub/bookclub.wah.wav"]
+  "bookclub": ["bookclub/bookclub.wav", "bookclub/bookclub.high.wav", "bookclub/bookclub.wah.wav"],
+  "knit": ["knit/knit.wav", "knit/knitstretched.wav", "knit/knitwah.wav"],
+  "purl": ["purl/purl.wav", "purldeep.wav", "purl/purllow"]
 }
