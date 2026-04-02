@@ -3,8 +3,8 @@
   "wearingacap": "wearingacap/wearingacap.wav",
   "todaystheday": "todaystheday/todaystheday.wav",
   "bookclub": ["bookclub/bookclub.wav", "bookclub/bookclub.high.wav", "bookclub/bookclub.wah.wav"],
-  "samybday":["samybday/samybday"],
-  "feltedslippers":["feltedslippers/k","feltedslippers/p"],
+  "samybday":["samybday/samybday.wav"],
+  "feltedslippers":["feltedslippers/k.wav","feltedslippers/p.wav"],
   "knit": ["knit/knit.wav", "knit/knitstretched.wav", "knit/knitwah.wav"],
   "purl": ["purl/purl.wav", "purldeep.wav", "purl/purllow.wav"]
 }
