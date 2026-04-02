@@ -6,5 +6,5 @@
   "samybday":["samybday/samybday.wav"],
   "feltedslippers":["feltedslippers/k.wav","feltedslippers/p.wav"],
   "knit": ["knit/knit.wav", "knit/knitstretched.wav", "knit/knitwah.wav"],
-  "purl": ["purl/purl.wav", "purldeep.wav", "purl/purllow"]
+  "purl": ["purl/purl.wav", "purldeep.wav", "purl/purllow.wav"]
 }
