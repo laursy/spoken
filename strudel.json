@@ -4,6 +4,5 @@
   "todaystheday": "todaystheday/todaystheday.wav",
   "bookclub": ["bookclub/bookclub.wav", "bookclub/bookclub.high.wav", "bookclub/bookclub.wah.wav"],
   "samybday":["samybday/samybday.wav"],
-  "knit": ["knit/k.wav"],
-  "purl": ["purl/p.wav"]
-}
+  "knit": ["knit/k"],
+  "purl": ["purl/p"]
