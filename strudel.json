@@ -4,6 +4,11 @@
   "todaystheday": "todaystheday/todaystheday.wav",
   "bookclub": ["bookclub/bookclub.wav", "bookclub/bookclub.high.wav", "bookclub/bookclub.wah.wav"],
   "samybday":["samybday/samybday.wav"],
+  "ssk":["ssk/ssk.wav"],
+  "k2tog":["k2tog/ktog.wav"],
+  "ltco":["ltco/ltco.wav", "ltco/ltcofast.wav"],
+  "m1l":["m1l/m1l.wav"],
+  "m1r":["m1r/m1r.wav"],
   "knit": ["knit/k.wav"],
   "purl": ["purl/p.wav"]
 }
