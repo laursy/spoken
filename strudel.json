@@ -7,6 +7,7 @@
   "ssk":["ssk/ssk.wav"],
   "k2tog":["k2tog/ktog.wav"],
   "ltco":["ltco/ltco.wav", "ltco/ltcofast.wav"],
+  "blco":["blco/blco.wav"]
   "m1l":["m1l/m1l.wav"],
   "m1r":["m1r/m1r.wav"],
   "heelpanel":["heelpanel/heelpanel.wav"],
