@@ -9,6 +9,9 @@
   "ltco":["ltco/ltco.wav", "ltco/ltcofast.wav"],
   "m1l":["m1l/m1l.wav"],
   "m1r":["m1r/m1r.wav"],
+  "heelpanel":["heelpanel/heelpanel.wav"],
+  "toppanel":["toppanel/toppanel.wav"],
+  "solepanel":["solepanel/solepanel.wav"],
   "knit": ["knit/k.wav"],
   "purl": ["purl/p.wav"]
 }
