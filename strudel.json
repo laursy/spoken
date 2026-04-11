@@ -13,6 +13,7 @@
   "heelpanel":["heelpanel/heelpanel.wav"],
   "toppanel":["toppanel/toppanel.wav"],
   "solepanel":["solepanel/solepanel.wav"],
+  "slipperinterview":["slipperinterview/slipperinterview0.wav", "slipperinterview/slipperinterview1.wav"],
   "knit": ["knit/k.wav"],
   "purl": ["purl/p.wav"]
 }
